@@ -1,0 +1,6 @@
+{
+    {
+       require.resolve("https-browserify")
+    }
+ }
+ 
